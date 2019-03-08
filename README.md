@@ -1,5 +1,14 @@
 This project is still being implemented. (08-03-2019)
 
+Brief Introduction:
+This is a self-driven learning project which is used to test and demonstrate the knowledge of React.js learnt from Udemy recently. Users can get the weather information today and 5 days in the future, also they can search for the city they preferred.
+
+The current version includes:
+1. Demonstrate the weather of user's current position. (done)
+2. Implementing the component which can forecast the future weather. (doing)
+
+------------------------------------------------------------------------------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
