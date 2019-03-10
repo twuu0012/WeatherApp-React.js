@@ -1,0 +1,71 @@
+.city-label, .local-time
+{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+
+}
+
+.local-time, .params{
+    font-size: 18px;
+    font-family: Arial;
+    color: grey;
+}
+
+.city-label {
+    font-size: 24px;
+    font-weight: bold;
+    color: grey;
+    font-family: Arial;
+    position: relative;
+    padding-top: 15px;
+    padding-bottom: 10px;
+}
+
+.content{
+    margin-top: 15px;
+    border: 1px solid lightgrey;
+    border-radius: 8px;
+    width: 80%;
+}
+
+/* temp block */
+.temp{
+    padding-top: 10px;
+    padding-bottom: 15px;
+}
+
+.current-weather{
+    justify-content: center;
+    padding-left: 40%;
+    padding-top: 10px;
+}
+
+.fah-temp {
+    display: none;
+}
+
+.cel-temp, .fah-temp{
+    font-size: 30px;
+    font-family: Arial;
+
+    float: right;
+    padding-top: 30px;
+    padding-right: 40%;
+}
+
+/* Button and Description */
+
+.mode_button{
+    position: relative;
+    float: right;
+    right: 10%;
+    bottom: 50px;
+}
+
+.params{
+    position: relative;
+    text-align: right;
+    bottom: 100px;
+    right: 10%;
+}
