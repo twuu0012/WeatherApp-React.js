@@ -1,0 +1,36 @@
+.item-content{
+    font-size: 15px;
+    font-family: Arial;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.time {
+    font-size: 18px;
+}
+
+.max-fah, .max-cel {
+    top: 10px;
+}
+
+
+.min-fah, .min-cel {
+    color: lightgrey;
+}
+
+.max-fah, .min-fah {
+    display: none;
+}
+
+.item {
+    margin-top: 15px;
+    border: 1px solid lightgrey;
+    border-radius: 8px;
+    width: 80%;
+    text-align: center;
+
+}
+
+.container {
+    padding-bottom: 10px;
+}

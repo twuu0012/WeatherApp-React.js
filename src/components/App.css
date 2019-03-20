@@ -1,0 +1,13 @@
+.app {
+    margin-top: 15px;
+    border: 1px solid lightgrey;
+    border-radius: 8px;
+    width: 80%;
+}
+
+.mode_button{
+    position: relative;
+    float: right;
+    right: 10%;
+    bottom: 50px;
+}

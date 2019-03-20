@@ -3,10 +3,14 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "jquery": "^3.3.1",
     "react": "^16.8.3",
+    "react-alice-carousel": "^1.13.1",
     "react-animated-weather": "^2.0.0",
     "react-dom": "^16.8.3",
-    "react-scripts": "2.1.5"
+    "react-items-carousel": "^2.3.0",
+    "react-scripts": "2.1.5",
+    "lodash": "latest"
   },
   "scripts": {
     "start": "react-scripts start",

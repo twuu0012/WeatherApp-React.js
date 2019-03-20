@@ -22,12 +22,12 @@
     padding-bottom: 10px;
 }
 
-.content{
-    margin-top: 15px;
-    border: 1px solid lightgrey;
-    border-radius: 8px;
-    width: 80%;
-}
+/*.content{*/
+    /*margin-top: 15px;*/
+    /*border: 1px solid lightgrey;*/
+    /*border-radius: 8px;*/
+    /*width: 80%;*/
+/*}*/
 
 /* temp block */
 .temp{
@@ -54,14 +54,7 @@
     padding-right: 40%;
 }
 
-/* Button and Description */
-
-.mode_button{
-    position: relative;
-    float: right;
-    right: 10%;
-    bottom: 50px;
-}
+/* Description */
 
 .params{
     position: relative;
