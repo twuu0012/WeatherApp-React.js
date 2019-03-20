@@ -1,11 +1,19 @@
-This project is still being implemented. (08-03-2019)
+This project is finished. (20-Mar-2019)
 
-Brief Introduction:
-This is a self-driven learning project which is used to test and demonstrate the knowledge of React.js learnt from Udemy recently. Users can get the weather information today and 5 days in the future, also they can search for the city they preferred.
+Learning Summary:
+
+This is my first project based on React.js which is used to practice my self-driven learning journey at Udemy.com.
+The main technologies includes:
+
+>Axios to communicate with Open Weather API.
+>Semantic-ui to customize the appearance of button.
+>NPM for open source component and dependencies management.
+>Native React.js: JSX, lifecycle functions, class based component, functional component.
+>CSS
 
 The current version includes:
 1. Demonstrate the weather of user's current position. (done)
-2. Implementing the component which can forecast the future weather. (doing)
+2. Implementing the component which can forecast the future weather. (done)
 
 ------------------------------------------------------------------------------
 
