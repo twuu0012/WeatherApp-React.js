@@ -5,11 +5,13 @@ Learning Summary:
 This is my first project based on React.js which is used to practice my self-driven learning journey at Udemy.com.
 The main technologies includes:
 
->Axios to communicate with Open Weather API.
->Semantic-ui to customize the appearance of button.
->NPM for open source component and dependencies management.
->Native React.js: JSX, lifecycle functions, class based component, functional component.
->CSS
+<
+Axios to communicate with Open Weather API.
+Semantic-ui to customize the appearance of button.
+NPM for open source component and dependencies management.
+Native React.js: JSX, lifecycle functions, class based component, functional component.
+CSS
+>
 
 The current version includes:
 1. Demonstrate the weather of user's current position. (done)
